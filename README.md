@@ -6,7 +6,7 @@
 
 - P5.JS mousePressed() used to act on the bubble objects
 
-- On mousePressed() object is spliced() from array
+- On mousePressed() object is splice(x,y) from array
 
 
 ![removeobjectsfromarraysp5.js](assets/remove.gif)
